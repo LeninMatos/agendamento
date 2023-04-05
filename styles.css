@@ -3,6 +3,11 @@ body {
     font-family: sans-serif;
 }
 
+.calendly-inline-widget {
+    min-width: 400px;
+    height: 700px;
+}
+
 h1,
 h2 {
     text-align: center;
